@@ -35,8 +35,7 @@ bot_user_name: Final = '@name_bot'
 _**Run code from**:_
  main.py
 
-** Notes**
- 
+**Notes**
 This bot stores data in .csv files, one per user, for simple and easy access.
 
 It runs locally and uses a background scheduler for sending daily summaries.
