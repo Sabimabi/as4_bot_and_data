@@ -1,7 +1,7 @@
 # as4_bot_and_data
 Task 4.1 and 4.2
 
-Contributors: Rakhat Sabina and Kozhakhmet Aruzhan
+**Contributors**: _Rakhat Sabina and Kozhakhmet Aruzhan_
 from MNU University
 
 **TASK 4.1 Financial Planner Pal Bot**
