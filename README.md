@@ -8,7 +8,7 @@ from MNU University
 
 A personal Telegram bot to help you plan your budget, track expenses and income – right inside your chat! Built with Python and `python-telegram-bot`.
 
-**Main Functions **
+**Main Functions**
 
 - Set budgets by category (`/config <category> <amount>`)
 -  Log income and expenses (`/log income|expense <category> <amount>`)
@@ -18,9 +18,9 @@ A personal Telegram bot to help you plan your budget, track expenses and income 
 -  Clear all your data easily (`/clear`)
   
 
-All data is stored per-user in simple `.csv` files using a lightweight persistent storage method.
+All _**data** _ is stored per-user in simple `.csv` files using a lightweight persistent storage method.
 
-All screenshots are available in the reposiroty.
+All _**screenshots**_ are available in the reposiroty.
 
 **How to run?**
 
@@ -39,6 +39,10 @@ _**Run code from**:_
 This bot stores data in .csv files, one per user, for simple and easy access.
 
 It runs locally and uses a background scheduler for sending daily summaries.
+
+
+**TASK 4.2 Data Preparation, General Analysis, and Basic Visualization**
+
 
 
 
