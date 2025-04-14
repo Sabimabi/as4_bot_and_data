@@ -6,8 +6,8 @@ import csv
 import os
 
 # --- Bot Identification ---
-bot_token: Final = '7914440539:AAFRUPqaJDeC1qW3DIpDLf4nDLmdWngH4VY'
-bot_user_name: Final = '@financial_planner_pal_bot'
+bot_token: Final = '***'
+bot_user_name: Final = '@name_bot'
 
 # Creates a folder to store user data
 data_folder = 'user_data'
